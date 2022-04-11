@@ -5,7 +5,7 @@
 # Larry Madeo (@hillmonkey)
 # /usr/local/bin
 
-BIN_PATH="C:\Users\Uchechi Paschal\Documents\GitHub\Betty\bin"
+BIN_PATH="/~/Betty/bin/"
 BETTY_STYLE="betty-style"
 BETTY_DOC="betty-doc"
 
